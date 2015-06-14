@@ -2,7 +2,7 @@
 
 </br>
 
-To be uploaded
+To be uploaded shortly
 [Visualizations link](https://www.cs.usfca.edu/~galles/visualization/BFS.html)
 </br>
 </br>
